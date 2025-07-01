@@ -2,4 +2,6 @@ pulp
 seaborn
 pandas
 matplotlib
-
+ace_tools
+scipy
+streamlit
